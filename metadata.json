@@ -1,0 +1,7 @@
+{
+  "name": "VN English AI Worksheet",
+  "description": "An AI-powered English learning worksheet for Vietnamese beginners, featuring auto-grading, dynamic question generation, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
